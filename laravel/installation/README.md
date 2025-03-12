@@ -4,6 +4,7 @@
 
 - [Laragon Install](#laragon-install)
 - [Composer Install](#composer-install)
+- [phpMyAdmin Install in Laragon](#phpmyadmin-install-in-laragon)
 
 ## Laragon Install ([⬆️](#installation))
 Laragon provides a beautiful server environment, but it is not free software.  
@@ -29,4 +30,10 @@ https://getcomposer.org/download
 N.B: **If you want to know more details about Composer, go to this link**
 
 [Composer](./composer/README.md)
+
+
+## phpMyAdmin Install in Laragon ([⬆️](#installation))
+Click on the link below and see how to install phpMyAdmin in Laragon (with images). ✅ 
+
+[phpMyAdmin](./phpMyAdmin/README.md)
 
