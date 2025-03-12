@@ -14,31 +14,31 @@ https://laragon.org/download
 [Download Link](https://laragon.org/download)
 
 ### 2. Follow the Laragon software installation rules step-by-step
-a. Open the Laragon Software and click "Ok" button
+a. Open the Laragon Software and click "Ok" button<br>
 <img src="./LaragonImage/laragon_1.png">
 
-b. Select the destination location and click the next
+b. Select the destination location and click the next<br>
 <img src="./LaragonImage/laragon_2.png">
 
-c. Then click "Next"
+c. Then click "Next"<br>
 <img src="./LaragonImage/laragon_3.png">
 
-d. Then click "Install"
+d. Then click "Install"<br>
 <img src="./LaragonImage/laragon_4.png">
 
-e. Wait few seconds for installing
+e. Wait few seconds for installing<br>
 <img src="./LaragonImage/laragon_5.png">
 
-f. Then click "Finish"
+f. Then click "Finish"<br>
 <img src="./LaragonImage/laragon_6.png">
 
-g. Then you see this interface. Click the "close" button and the click the "Start All" button
+g. Then you see this interface. Click the "close" button and the click the "Start All" button<br>
 <img src="./LaragonImage/laragon_7.png">
 
-h. Then click the "Ok" button
+h. Then click the "Ok" button<br>
 <img src="./LaragonImage/laragon_8.png">
 
-i. Finally you see the your server is ready.
+i. Finally you see the your server is ready.<br>
 <img src="./LaragonImage/laragon_9.png">
 
 Thank you for staying with me.  
