@@ -2,9 +2,9 @@
 
 [Back](./..)
 
-- [Laragon Install](#laragon-install)
-- [Composer Install](#composer-install)
-- [phpMyAdmin Install in Laragon](#phpmyadmin-install-in-laragon)
+- [Laragon Install](#laragon-install-%EF%B8%8F)
+- [Composer Install](#composer-install-%EF%B8%8F)
+- [phpMyAdmin Install in Laragon](#phpmyadmin-install-in-laragon-%EF%B8%8F)
 
 ## Laragon Install ([⬆️](#installation))
 Laragon provides a beautiful server environment, but it is not free software.  

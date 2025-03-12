@@ -2,7 +2,7 @@
 
 [Back](./..)
 
-- [Composer Installation Process](#composer-installation-process)
+- [Composer Installation Process](#composer-installation-process-%EF%B8%8F)
 
 ## Composer Installation Process ([⬆️](#composer))
 ### 1. Download Composer software from the link

@@ -2,7 +2,7 @@
 
 [Back](./..)
 
-- [Laragon Installation Process](#laragon-installation-process)
+- [Laragon Installation Process](#laragon-installation-process-%EF%B8%8F)
 
 ## Laragon Installation Process ([⬆️](#laragon))
 ### 1. Download Laragon software from the link

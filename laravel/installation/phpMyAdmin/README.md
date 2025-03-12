@@ -2,7 +2,7 @@
 
 [Back](./..)
 
-- [phpMyAdmin Installation Process](#phpmyadmin-installation-process)
+- [phpMyAdmin Installation Process](#phpmyadmin-installation-process-%EF%B8%8F)
 
 ## phpMyAdmin Installation Process ([⬆️](#phpmyadmin))
 ### 1. Follow the installation rules step-by-step
