@@ -6,6 +6,7 @@
 - [Composer Install](#composer-install-%EF%B8%8F)
 - [phpMyAdmin Install in Laragon](#phpmyadmin-install-in-laragon-%EF%B8%8F)
 - [7 Zip Install](#7-zip-install-%EF%B8%8F)
+- [Node js Install](#node-js-install-%EF%B8%8F)
 
 ## Laragon Install ([⬆️](#installation))
 Laragon provides a beautiful server environment, but it is not free software.  
@@ -45,3 +46,9 @@ If you face an unzip problem while downloading a Laravel application on your loc
 Click on the link below to see how to install 7-Zip on your system with images. ✅ 
 
 [7 Zip](./7zip/README.md)
+
+
+## Node js Install ([⬆️](#installation))
+Click on the link below and see how to install Nodejs on your local machine with images. ✅
+
+[Node JS](./nodejs/README.md)
