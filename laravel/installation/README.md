@@ -5,6 +5,7 @@
 - [Laragon Install](#laragon-install-%EF%B8%8F)
 - [Composer Install](#composer-install-%EF%B8%8F)
 - [phpMyAdmin Install in Laragon](#phpmyadmin-install-in-laragon-%EF%B8%8F)
+- [7 Zip Install](#7-zip-install-%EF%B8%8F)
 
 ## Laragon Install ([⬆️](#installation))
 Laragon provides a beautiful server environment, but it is not free software.  
@@ -37,3 +38,10 @@ Click on the link below and see how to install phpMyAdmin in Laragon (with image
 
 [phpMyAdmin](./phpMyAdmin/README.md)
 
+
+## 7 Zip Install ([⬆️](#installation))
+If you face an unzip problem while downloading a Laravel application on your local machine, you can download and install the "7-Zip" software.
+
+Click on the link below to see how to install 7-Zip on your system with images. ✅ 
+
+[7 Zip](./7zip/README.md)
