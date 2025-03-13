@@ -8,6 +8,7 @@
 - [7 Zip Install](#7-zip-install-%EF%B8%8F)
 - [Node js Install](#node-js-install-%EF%B8%8F)
 - [Laravel Install](#laravel-install-%EF%B8%8F)
+- [Livewire Install](#livewire-install-%EF%B8%8F)
 
 ## Laragon Install ([⬆️](#installation))
 Laragon provides a beautiful server environment, but it is not free software.  
@@ -95,6 +96,14 @@ laravel new project-name
 
 The Laravel installer will prompt you to select your preferred testing framework, database, and starter kit.
 
+
+## Livewire Install ([⬆️](#installation))
+Livewire is a Laravel package, so you will need to have a Laravel application up and running before you can install and use Livewire.
+
+To install Livewire, open your terminal and navigate to your Laravel application directory, then run the following command:
+```sh
+composer require livewire/livewire
+```
 
 
 Thank you for staying with me.  
