@@ -7,6 +7,7 @@
 - [phpMyAdmin Install in Laragon](#phpmyadmin-install-in-laragon-%EF%B8%8F)
 - [7 Zip Install](#7-zip-install-%EF%B8%8F)
 - [Node js Install](#node-js-install-%EF%B8%8F)
+- [Laravel Install](#laravel-install-%EF%B8%8F)
 
 ## Laragon Install ([⬆️](#installation))
 Laragon provides a beautiful server environment, but it is not free software.  
@@ -52,3 +53,49 @@ Click on the link below to see how to install 7-Zip on your system with images. 
 Click on the link below and see how to install Nodejs on your local machine with images. ✅
 
 [Node JS](./nodejs/README.md)
+
+
+## Laravel Install ([⬆️](#installation))
+
+**Applicable for Laravel 11 or later versions.**<br>
+
+Before creating your first Laravel application, make sure that your local machine has PHP, Composer, and the Laravel installer installed. In addition, you should install Node and NPM so that you can compile your application's frontend assets.
+
+#### 1. Check whether PHP is installed or not.
+```sh
+php --version
+```
+
+**N.B. If you see the PHP version, then PHP is installed successfully.** If PHP is not installed, then install [Laragon](./laragon/README.md). It is easy for windows user.
+
+#### 2. Check whether composer is installed or not.
+```sh
+composer --version
+```
+
+**N.B. If you see the Composer version, then Composer is installed successfully.** If Composer is not installed, then install [Composer](./composer/README.md).
+
+#### 3. Check whether Laravel installer is installed or not.
+
+```sh
+laravel --version
+```
+
+**N.B. If you see the Laravel installer version, then Laravel installer is installed successfully.** If Laravel installer is not installed, then run this command in your terminal.
+
+```sh
+composer global require laravel/installer
+```
+
+#### 4. Creating Laravel Application
+After you have installed PHP, Composer, and the Laravel installer, you're ready to create a new Laravel application. Run this command:
+```sh
+laravel new project-name
+```
+
+The Laravel installer will prompt you to select your preferred testing framework, database, and starter kit.
+
+
+
+Thank you for staying with me.  
+Please follow and subscribe to my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MirzaMdGolamNabi)
