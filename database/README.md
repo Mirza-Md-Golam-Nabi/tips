@@ -2,7 +2,11 @@
 
 [Back](./..)
 
+- [Set the MySQL Path in Windows](#set-the-mysql-path-path-in-windows-️)
 - [Database Import](#database-import-️)
+
+## Set the MySQL Path (PATH) in Windows ([⬆️](#database))
+Please, visit this [Link](./../laravel/installation/phpMyAdmin/README.md#set-the-mysql-path-path-in-windows-️)
 
 ## Database Import ([⬆️](#database))
 If you want to import a database file using the terminal, make sure your database file is in **.sql** format. Then, run the following command:
