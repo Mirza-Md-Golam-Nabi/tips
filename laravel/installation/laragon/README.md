@@ -2,10 +2,12 @@
 
 [Back](./..)
 
-- [Laragon Installation Process](#laragon-installation-process-%EF%B8%8F)
-- [phpMyAdmin Installation Process](#phpmyadmin-installation-process-%EF%B8%8F)
+- [Laragon Installation Process](#laragon-installation-process-️)
+- [phpMyAdmin Installation Process](#phpmyadmin-installation-process-️)
+- [PHP Installation Process](#php-installation-process-️)
 
 ## Laragon Installation Process ([⬆️](#laragon))
+
 ### 1. Download Laragon software from the link
 
 ```sh
@@ -15,6 +17,7 @@ https://laragon.org/download
 [Download Link](https://laragon.org/download)
 
 ### 2. Follow the Laragon software installation rules step-by-step
+
 a. Open the Laragon Software and click "Ok" button<br>
 <img src="./LaragonImage/laragon_1.png">
 
@@ -43,8 +46,12 @@ i. Finally you see the your server is ready.<br>
 <img src="./LaragonImage/laragon_9.png">
 
 ## phpMyAdmin Installation Process ([⬆️](#laragon))
+
 If you want to install **phpMyAdmin** in your Laragon, then follow this [Link](./../phpMyAdmin/README.md)
+
+## PHP Installation Process ([⬆️](#laragon))
+
+If you want to install **PHP** in your Laragon, then follow this [Link](./../php/README.md)
 
 Thank you for staying with me.  
 Please follow and subscribe to my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MirzaMdGolamNabi)
-

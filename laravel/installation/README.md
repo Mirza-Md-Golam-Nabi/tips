@@ -2,13 +2,14 @@
 
 [Back](./..)
 
-- [Laragon Install](#laragon-install-%EF%B8%8F)
-- [Composer Install](#composer-install-%EF%B8%8F)
-- [phpMyAdmin Install in Laragon](#phpmyadmin-install-in-laragon-%EF%B8%8F)
-- [7 Zip Install](#7-zip-install-%EF%B8%8F)
-- [Node js Install](#node-js-install-%EF%B8%8F)
-- [Laravel Install](#laravel-install-%EF%B8%8F)
-- [Livewire Install](#livewire-install-%EF%B8%8F)
+- [Laragon Install](#laragon-install-️)
+- [Composer Install](#composer-install-️)
+- [PHP Install in Laragon](#php-install-in-laragon-️)
+- [phpMyAdmin Install in Laragon](#phpmyadmin-install-in-laragon-️)
+- [7 Zip Install](#7-zip-install-️)
+- [Node js Install](#node-js-install-️)
+- [Laravel Install](#laravel-install-️)
+- [Livewire Install](#livewire-install-️)
 - [Vue Install](#vue-install-️)
 
 ## Laragon Install ([⬆️](#installation))
@@ -37,9 +38,15 @@ N.B: **If you want to know more details about Composer, go to this link**
 
 [Composer](./composer/README.md)
 
+## PHP Install in Laragon ([⬆️](#installation))
+
+Click on the link below and see how to install **PHP** in Laragon (with images). ✅
+
+[PHP](./php/README.md)
+
 ## phpMyAdmin Install in Laragon ([⬆️](#installation))
 
-Click on the link below and see how to install phpMyAdmin in Laragon (with images). ✅
+Click on the link below and see how to install **phpMyAdmin** in Laragon (with images). ✅
 
 [phpMyAdmin](./phpMyAdmin/README.md)
 
