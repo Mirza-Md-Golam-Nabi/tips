@@ -2,7 +2,7 @@
 
 [Back](./..)
 
-- [7 Zip Installation Process](#7-zip-installation-process-%EF%B8%8F)
+- [7 Zip Installation Process](#7-zip-installation-process-️)
 
 ## 7 Zip Installation Process ([⬆️](#7-zip))
 ### 1. Follow the installation rules step-by-step

@@ -11,6 +11,7 @@
 - [Laravel Install](#laravel-install-️)
 - [Livewire Install](#livewire-install-️)
 - [Vue Install](#vue-install-️)
+- [Bootstrap Install in Vue](#bootstrap-install-in-vue-️)
 
 ## Laragon Install ([⬆️](#installation))
 
@@ -167,6 +168,23 @@ The resolve.alias section defines shortcuts:
 - **vue** points to vue.esm-bundler.js for proper Vue bundling
 
 **If you want to read more, click this [Link](./vue/README.md)**
+
+## Bootstrap Install in Vue ([⬆️](#installation))
+
+If you want to install **Bootstrap** in your **Laravel** with **Vue** project, then run this command:
+
+```sh
+npm install bootstrap
+```
+
+After complete the installation, then import it in your **resources/js/app.js** file.
+
+```sh
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap';
+```
+
+**If you want to read more, click this [Link](./bootstrap/README.md)**
 
 Thank you for staying with me.  
 Please follow and subscribe to my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MirzaMdGolamNabi)
