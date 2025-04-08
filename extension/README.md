@@ -26,10 +26,11 @@ If you want to write JavaScript code quickly, install the following extensions.
 - Quokkka.js
 
 ## Vue Extension ([⬆️](#extension))
+
 If you want to write Vue code quickly, install the following extensions.
 
-* Vetur
-* ESLint
+- Vetur
+- ESLint
 
 ## Theme Extension ([⬆️](#extension))
 
