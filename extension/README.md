@@ -5,6 +5,7 @@
 - [HTML CSS Extension](#html-css-extension-️)
 - [JavaScript Extension](#javascript-extension-️)
 - [Vue Extension](#vue-extension-️)
+- [PHP Extension](#php-extension-️)
 - [Theme Extension](#theme-extension-️)
 
 ## HTML CSS Extension ([⬆️](#extension))
@@ -31,6 +32,14 @@ If you want to write Vue code quickly, install the following extensions.
 
 - Vetur
 - ESLint
+
+## PHP Extension ([⬆️](#extension))
+
+- PHP Intelephense
+- PHP IntelliSense
+- PHP Namespace Resolver
+- Laravel goto view
+- laravel-jump-controller
 
 ## Theme Extension ([⬆️](#extension))
 
