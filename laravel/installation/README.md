@@ -13,6 +13,7 @@
 - [Vue Install](#vue-install-️)
 - [Bootstrap Install in Vue](#bootstrap-install-in-vue-️)
 - [Bootstrap Install in Livewire](#bootstrap-install-in-livewire-️)
+- [Breeze Install in Laravel](#breeze-install-in-laravel-️)
 
 ## Laragon Install ([⬆️](#installation))
 
@@ -239,6 +240,22 @@ npm run dev
 ✅ Now, you can enjoy bootstrap in your code. 😎
 
 **If you want to read more, click this [Link](./bootstrap/README.md/#bootstrap-install-in-livewire-️)**
+
+## Breeze Install in Laravel ([⬆️](#installation))
+
+Create a new Laravel project without any kit. Next, you can install the Breeze package via Composer.
+
+```sh
+composer require laravel/breeze --dev
+```
+
+Next, you run bellow and you will see your familiar stack options to choose from.
+
+```sh
+php artisan breeze:install
+```
+
+✅ Now, you can enjoy Laravel Breeze in your code. 😎
 
 Thank you for staying with me.  
 Please follow and subscribe to my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MirzaMdGolamNabi)
