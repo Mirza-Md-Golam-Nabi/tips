@@ -13,7 +13,7 @@
 - [Vue Install](#vue-install-️)
 - [Bootstrap Install in Vue](#bootstrap-install-in-vue-️)
 - [Bootstrap Install in Livewire](#bootstrap-install-in-livewire-️)
-- [Breeze Install in Laravel](#breeze-install-in-laravel-️)
+- [Breeze(Starter Kit) Install in Laravel](#breeze-install-in-laravel-️)
 
 ## Laragon Install ([⬆️](#installation))
 
@@ -253,6 +253,18 @@ Next, you run bellow and you will see your familiar stack options to choose from
 
 ```sh
 php artisan breeze:install
+```
+
+If you require install npm dependence, then you can run this command:
+
+```sh
+npm install
+```
+
+Then compile the frontEnd asset.
+
+```sh
+npm run dev
 ```
 
 ✅ Now, you can enjoy Laravel Breeze in your code. 😎
