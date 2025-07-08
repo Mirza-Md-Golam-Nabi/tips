@@ -4,6 +4,7 @@
 
 - [Bootstrap install in Vue](#bootstrap-install-in-vue-️)
 - [Bootstrap install in Livewire](#bootstrap-install-in-livewire-️)
+- [Bootstrap install in Laravel](#bootstrap-install-in-laravel-️)
 
 ## Bootstrap install in Vue ([⬆️](#bootstrap))
 
@@ -91,7 +92,7 @@ npm run dev
 
 ## Bootstrap install in Laravel ([⬆️](#bootstrap))
 
-Please read this doc [Link](./README.md/#bootstrap-install-in-laravel-️)
+Please read this doc [Link](../README.md/#bootstrap-install-in-laravel-️)
 
 Thank you for staying with me.  
 Please follow and subscribe to my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MirzaMdGolamNabi)
