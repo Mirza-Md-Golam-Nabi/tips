@@ -89,5 +89,9 @@ npm run dev
 
 ✅ Now, you can enjoy bootstrap in your code. 😎
 
+## Bootstrap install in Laravel ([⬆️](#bootstrap))
+
+Please read this doc [Link](./README.md/#bootstrap-install-in-laravel-️)
+
 Thank you for staying with me.  
 Please follow and subscribe to my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MirzaMdGolamNabi)

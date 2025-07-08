@@ -13,6 +13,7 @@
 - [Vue Install](#vue-install-️)
 - [Bootstrap Install in Vue](#bootstrap-install-in-vue-️)
 - [Bootstrap Install in Livewire](#bootstrap-install-in-livewire-️)
+- [Bootstrap Install in Laravel](#bootstrap-install-in-laravel-️)
 - [Breeze(Starter Kit) Install in Laravel](#breeze-install-in-laravel-️)
 
 ## Laragon Install ([⬆️](#installation))
@@ -240,6 +241,65 @@ npm run dev
 ✅ Now, you can enjoy bootstrap in your code. 😎
 
 **If you want to read more, click this [Link](./bootstrap/README.md/#bootstrap-install-in-livewire-️)**
+
+## Bootstrap Install in Laravel ([⬆️](#installation))
+
+If you want to install **Bootstrap** in your **Laravel** project, then run this command:
+
+```sh
+npm i bootstrap
+```
+
+After complete the installation, then import **Bootstrap** in your **resources/css/app.css** file (at the top of the file).
+
+```sh
+@import 'bootstrap/dist/css/bootstrap.min.css';
+```
+
+Then also import **Bootstrap** in your **resources/js/app.js** file.
+
+```sh
+import '../css/app.css';
+import * as bootstrap from 'bootstrap';
+```
+
+Now, finally run this command:
+
+```sh
+npm run dev
+```
+
+If you get any underline problem in the **a(anchor)** tag, then use this code at the **resources/css/app.css** file. as like
+
+```sh
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a {
+    @apply no-underline; /* 👈 important */
+}
+
+```
+
+And your **resources/js/app.js** file looks like:
+
+```sh
+import '../css/app.css'; /* 👈 import this line */
+import './bootstrap';
+import * as bootstrap from 'bootstrap'; /* 👈 import this line */
+
+import Alpine from 'alpinejs';
+
+window.Alpine = Alpine;
+
+Alpine.start();
+
+```
+
+✅ Now, you can enjoy bootstrap in your code. 😎
 
 ## Breeze Install in Laravel ([⬆️](#installation))
 
