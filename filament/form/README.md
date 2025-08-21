@@ -9,7 +9,7 @@
 
 <img src="./images/createAnother.png">
 
-```sh
+```php
 class ManageCustomers extends ManageRecords
 {
     protected static string $resource = CustomerResource::class;
@@ -26,9 +26,9 @@ class ManageCustomers extends ManageRecords
 
 Or
 
-You can use another way
+You can use another way for **create page**
 
-```sh
+```php
 protected static bool $canCreateAnother = false;
 ```
 
@@ -36,7 +36,7 @@ protected static bool $canCreateAnother = false;
 
 <img src="./images/inlineLabel.png">
 
-```sh
+```php
 use Filament\Forms\Components\Radio;
 
 Radio::make('feedback')
