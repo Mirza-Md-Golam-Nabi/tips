@@ -2,9 +2,9 @@
 
 [Back](./..)
 
-- [Set the MySQL Path in Windows](#set-the-mysql-path-path-in-windows-️)
-- [Database Import](#database-import-️)
-- [Copy Database From One into Another](#copy-database-from-one-to-another-)
+- [Set the MySQL Path in Windows](#set-the-mysql-path-path-in-windows-️%EF%B8%8F)
+- [Database Import](#database-import-️%EF%B8%8F)
+- [Copy Database From One to Another](#copy-database-from-one-to-another-%EF%B8%8F)
 
 ## Set the MySQL Path (PATH) in Windows ([⬆️](#database))
 Please, visit this [Link](./../laravel/installation/phpMyAdmin/README.md#set-the-mysql-path-path-in-windows-️)
