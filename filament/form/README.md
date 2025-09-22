@@ -4,6 +4,7 @@
 
 - [Remove CreateAnother Button](#remove-createanother-button-️)
 - [Inline Label Position](#inline-label-position-️)
+- [Reactive Method](#reactive-method-%EF%B8%8F)
 
 ## Remove CreateAnother Button ([⬆️](#form))
 
@@ -48,6 +49,28 @@ Radio::make('feedback')
     ->inline()
     ->inlineLabel(false),
 ```
+
+## Reactive Method ([⬆️](#form))
+
+```php
+use Filament\Forms;
+
+Forms\Components\Select::make('user_type')
+    ->label('User Type')
+    ->options([
+        'student' => 'Student',
+        'teacher' => 'Teacher',
+    ])
+    ->reactive(),
+
+Forms\Components\TextInput::make('student_id')
+    ->label('Student ID')
+    ->hidden(fn ($get) => $get('user_type') !== 'student'),
+
+```
+
+- এখানে **user_type** এর ভিতরে **reactive** মেথড ব্যবহার করার কারণে যখনই **user_type** পরিবর্তন হবে তখন সে অনুযায়ী **student_id** রেস্পন্স করবে। 
+- বিশেষ করে ->hidden(), ->visible(), ->disable(), ->required() এ condition ব্যবহার করলে reactive প্রয়োজন।
 
 Thank you for staying with me.  
 Please follow and subscribe to my YouTube channel: [YouTube Channel Link](https://www.youtube.com/@MirzaMdGolamNabi)
