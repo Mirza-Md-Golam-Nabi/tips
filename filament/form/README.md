@@ -61,7 +61,7 @@ Forms\Components\Select::make('user_type')
         'student' => 'Student',
         'teacher' => 'Teacher',
     ])
-    ->reactive(),
+    ->reactive(), // <-- এটা reactive
 
 Forms\Components\TextInput::make('student_id')
     ->label('Student ID')
