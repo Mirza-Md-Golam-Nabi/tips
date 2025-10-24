@@ -2,8 +2,8 @@
 
 [Back](./..)
 
-- [Remove CreateAnother Button](#remove-createanother-button-️)
-- [Inline Label Position](#inline-label-position-️)
+- [Remove CreateAnother Button](#remove-createanother-button-%EF%B8%8F)
+- [Inline Label Position](#inline-label-position-%EF%B8%8F)
 - [Reactive Method](#reactive-method-%EF%B8%8F)
 
 ## Remove CreateAnother Button ([⬆️](#form))

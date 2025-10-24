@@ -2,6 +2,7 @@
 
 [Back](./..)
 
-- [Resource](./resource)
 - [Form](./form)
+- [Page](./page)
+- [Resource](./resource)
 - [Table](./table)
